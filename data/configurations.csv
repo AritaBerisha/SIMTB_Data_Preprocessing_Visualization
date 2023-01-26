@@ -1,0 +1,218 @@
+Category,CategoryOption,CategoryValue
+PacientiTrajtuarMePare,Recidiv,1
+PacientiTrajtuarMePare,I trajtuar pas dështimit,2
+PacientiTrajtuarMePare,I trajtuar pas humbjes nga përcjellja,3
+PacientiTrajtuarMePare,"Tjetër i trajtuar më parë, rezultati panjohur/pa-dokumentuar",4
+EkzaminimiLlojiTestit,Mikroskopia direkte,1
+EkzaminimiLlojiTestit,GenXpert,2
+EkzaminimiLlojiTestit,Kultura,3
+EkzaminimiLlojiTestit,RTG Fillestar,4
+EkzaminimiLlojiTestit,PPD,5
+EkzaminimiLlojiTestit,HIV,6
+EkzaminimiLlojiTestit,Histologjia,7
+EkzaminimiLlojiTestit,Mycobacterium TBC,8
+EkzaminimiLlojiTestit,TNB-Rezistenca,9
+EkzaminimiLlojiTestit,RTG Pasues,10
+EkzaminimiLlojiTestit,COVID-19 PCR,11
+EkzaminimiLlojiTestit,Rtg-CT COVID-19,12
+EkzaminimiLlojiTestit,Serologjik,14
+MinoritareLista,RAE,1
+MinoritareLista,Muslim-Boshnjak,2
+MinoritareLista,Serb,3
+MinoritareLista,Turq,4
+KomunatLista,Deçan,1
+KomunatLista,Gjakovë,2
+KomunatLista,Gllogoc,3
+KomunatLista,Gjilan,4
+KomunatLista,Dragash,5
+KomunatLista,Istog,6
+KomunatLista,Kaçanik,7
+KomunatLista,Klinë,8
+KomunatLista,Fushë Kosovë,9
+KomunatLista,Kamenicë,10
+KomunatLista,Mitrovicë,11
+KomunatLista,Leposaviq,12
+KomunatLista,Lipjan,13
+KomunatLista,Novobërdë,14
+KomunatLista,Obiliq,15
+KomunatLista,Rahovec,16
+KomunatLista,Pejë,17
+KomunatLista,Podujevë,18
+KomunatLista,Prishtinë,19
+KomunatLista,Prizren,20
+KomunatLista,Skënderaj,21
+KomunatLista,Shtërpcë,22
+KomunatLista,Suharekë,23
+KomunatLista,Ferizaj,24
+KomunatLista,Viti,25
+KomunatLista,Vushtrri,26
+KomunatLista,Zubin Potok,27
+KomunatLista,Malishevë,28
+KomunatLista,Hani i Elezit,29
+KomunatLista,Mamush,30
+KomunatLista,Junik,31
+KomunatLista,Kllokot,32
+KomunatLista,Graçanicë,33
+KomunatLista,Ranilug,34
+KomunatLista,Partesh,35
+KomunatLista,Tjerë,36
+KomunatLista,Shtime,37
+KomunatLista,Zveçan,38
+KomunatLista,Nga shtete tjera,39
+QendratLista,PEJA (  D   ),31
+QendratLista,GJILAN (  G   ),33
+QendratLista,GJAKOVA (  E   ),35
+QendratLista,MITROVICA (  C   ),39
+QendratLista,PRISHTINA (  A   ),43
+QendratLista,PRIZREN (  B   ),44
+QendratLista,FERIZAJ (  F   ),49
+TipiPacientitLista,Rast i ri,1
+TipiPacientitLista,Rast i ri-trajtuar,2
+TipiPacientitLista,Pa histori te njohur te trajtimit te mepareshem,3
+TipiRastitLista,Recidiv,1
+TipiRastitLista,I trajtuar pas dështimit,2
+TipiRastitLista,I trajtuar pas humbjes nga përcjellja,3
+TipiRastitLista,"Tjetër i trajtuar më parë, rezultati panjohur/pa-dokumentuar",4
+LokalizimiLista,Pulmonar,1
+LokalizimiLista,Ex-Pulmonar,2
+LlojiDiagnozesLista,Konfirmuar bakteriologjikisht,1
+LlojiDiagnozesLista,Diagnostikuar klinikisht,2
+GrupetRrezikutLista,Kontakti,1
+GrupetRrezikutLista,I burgosur,2
+GrupetRrezikutLista,Minoritare,3
+GrupetRrezikutLista,I pastrehe,4
+GrupetRrezikutLista,Perdorues i drogave injektuese(PDI),5
+GrupetRrezikutLista,TB - HIV,6
+GrupetRrezikutLista,Tjeter?,7
+GrupetRrezikutLista,Punetore Shendetesor,8
+MjekuLista,Privat,1
+MjekuLista,Publik,2
+RezultatiEkzaminimetHIVLista,Negative,2
+RezultatiEkzaminimetHIVLista,Nuk është bërë,3
+RezultatiEkzaminimetHIVLista,E panjohur,26
+RezultatiEkzaminimetHIVLista,Pozitiv pa terapi,1
+RezultatiEkzaminimetHIVLista,Pozitiv: HIV+ TAR,29
+RezultatiEkzaminimetHIVLista,Pozitiv: HIV+ TPC,30
+RezultatiEkzaminimetHIVLista,Pozitiv: HIV+ TAR TPC,4
+TipiRastitGRLista,Te gjitha rastet(te konfirmuara bakterioligjikisht,
+ose te diagnostikuar klinikisht),1,
+TipiRastitGRLista,Te gjitha rastet e reja dhe recidive(I ri+,
+recidiv) bakterioligjikit te konfirumara dhe,,
+te diagnostifikuara klinikisht,2,
+TipiRastitGRLista,Te gjitha rastet e reja dhe recidive,
+te konfirmuara baterioligjikisht,,
+"(nje ose me shume BK+, Xpert+, Kulture+)",3,
+YesNoVal,Pacientët me HIV Test Pozitiv,1
+YesNoVal,Pacientët me HIV Test Negativ,2
+EkzaminimetList,Mikroskopia direkte,1
+EkzaminimetList,GenXpert,2
+EkzaminimetList,Kultura,3
+EkzaminimetList,RTG Fillestar,4
+EkzaminimetList,PPD,5
+EkzaminimetList,HIV,6
+EkzaminimetList,Histologjia,7
+EkzaminimetList,Mycobacterium TBC,8
+EkzaminimetList,TNB-Rezistenca,9
+EkzaminimetList,RTG Pasues,10
+EkzaminimetList,COVID-19 PCR,11
+EkzaminimetList,Rtg-CT COVID-19,12
+EkzaminimetList,Serologjik,14
+ReferuarLista,Vetë referuar,1
+ReferuarLista,Anëtarë i komunitetit,2
+ReferuarLista,Institucion publik,3
+ReferuarLista,Institucion privat,4
+ReferuarLista,Tjetër,5
+BakterigjikishtEkzaminimetLista,MD+; XP+; Kul+;,1
+BakterigjikishtEkzaminimetLista,MD+; XP+; Kul-;,2
+BakterigjikishtEkzaminimetLista,MD+; XP-; Kul+;,3
+BakterigjikishtEkzaminimetLista,MD+; XP-; Kul-;,4
+BakterigjikishtEkzaminimetLista,MD-; XP+; Kul+;,5
+BakterigjikishtEkzaminimetLista,MD-; XP+; Kul-;,6
+BakterigjikishtEkzaminimetLista,MD-; XP-; Kul+;,7
+VdekurRastetList,Vdekur nga TB,1
+VdekurRastetList,Vdekur nga shkaqe tjera,2
+TipiPacientitSpotumLista,Rastet e reja,1
+TipiPacientitSpotumLista,Raster e ritrajtuara,2
+TipiPacientitSpotumLista,Rastet e ritrajtuara (JO RECIDIV),3
+MetodaEkzaminimitSpotumList,Mikroskopia Direkte,1
+MetodaEkzaminimitSpotumList,Kultura,2
+GjiniaLista,Femer,1
+GjiniaLista,Mashkull,2
+ExtraPulmunareSmundjaVendi,Pleura,1
+ExtraPulmunareSmundjaVendi,SNQ,2
+ExtraPulmunareSmundjaVendi,Eshtra,3
+ExtraPulmunareSmundjaVendi,Intratekal,4
+ExtraPulmunareSmundjaVendi,Lëkurë,5
+ExtraPulmunareSmundjaVendi,Gjenitale,6
+ExtraPulmunareSmundjaVendi,Trakt urinar,7
+ExtraPulmunareSmundjaVendi,Okular,8
+ExtraPulmunareSmundjaVendi,Veshi,9
+ExtraPulmunareSmundjaVendi,Gj. limfatike,10
+ExtraPulmunareSmundjaVendi,Veshkët,11
+ExtraPulmunareSmundjaVendi,Gj. mbiveshkore,12
+ExtraPulmunareSmundjaVendi,Zorrët,13
+ExtraPulmunareSmundjaVendi,Peritoneumi,14
+ExtraPulmunareSmundjaVendi,Ureteri,15
+ExtraPulmunareSmundjaVendi,Fshikëza urinare,16
+ExtraPulmunareSmundjaVendi,Gj. limfatike abdominale,17
+LlojiPacientitKonverzioniList,"Konfirmuar bakteriologjikisht, të rinjë dhe recidiv (bakteriologjikisht pozitiv)",1
+LlojiPacientitKonverzioniList,"Të diagnostikuar klinikisht, të rinjë dhe recidiv (bakteriologjikisht negativ)",2
+LlojiPacientitKonverzioniList,Ritrajtim (përjashto recidivet),3
+LlojiPacientitKonverzioniList,Diagnoza e gabuar,4
+UrbanRural,Urban,2
+UrbanRural,Rural,1
+RezultatiGenXpert,MTB+; RR- (T),24
+RezultatiGenXpert,MTB+; RR+ (RR),4
+RezultatiGenXpert,MTB+; RR e papercaktuar (TI),5
+RezultatiGenXpert,MTB i pazbuluar/negativ (N),6
+RezultatiGenXpert,MTB invalid/Parezultat/Gabim (I),7
+RezultatiGenXpert,Nuk është bërë,8
+RezultatiPPD,Pozitive,1
+RezultatiPPD,Negative,2
+RezultatiPPD,Nuk është bërë,3
+RezultatiRTGFillestar,Kavitar,16
+RezultatiRTGFillestar,Infiltrant,17
+RezultatiRTGFillestar,Eksudat Pleural,27
+RezultatiRTGFillestar,Normal,18
+RezultatiRTGFillestar,Nuk është bërë,19
+RezultatiHistologjia,Pozitive,1
+RezultatiHistologjia,Negative,2
+RezultatiHistologjia,Nuk është bërë,3
+RezultatoMycobacteriumTBC,Hominis,1
+RezultatoMycobacteriumTBC,Bovis,2
+RezultatoMycobacteriumTBC,Africanum,3
+RezultatoMycobacteriumTBC,Kultura negative,4
+RezultatoMycobacteriumTBC,Kultura e kontaminuar,5
+RezultatoMycobacteriumTBC,Nuk është bërë,6
+RezultatiRTGPasues,Permiresim,1
+RezultatiRTGPasues,Perkeqesim,2
+RezultatiRTGPasues,Njejte,3
+RezultatiRTGPasues,Nuk është bërë,4
+RezultatiMikroskopiaDirekte,Pozitive,1
+RezultatiMikroskopiaDirekte,Negative,2
+RezultatiMikroskopiaDirekte,Nuk është bërë,3
+RezultatiKultura,Pozitive,1
+RezultatiKultura,Negative,2
+RezultatiKultura,Nuk është bërë,3
+RezultatiKultura,Kontaminuar,4
+RezultatetHIVTestPozitiv,Pozitiv pa terapi,1
+RezultatetHIVTestPozitiv,Pozitiv: HIV+ TAR,29
+RezultatetHIVTestPozitiv,Pozitiv: HIV+ TPC,30
+RezultatetHIVTestPozitiv,Pozitiv: HIV+ TAR TPC,4
+RezultatetHIVTestNegativ,Negativ,2
+RezultatetHIVTestNegativ,Nuk është bërë,3
+RezultatetHIVTestNegativ,E panjohur,26
+TrajtimSpitalorFilter,Po,1
+TrajtimSpitalorFilter,Jo,2
+HIVTestYesNo,Është bërë HIV Test,3
+HIVTestYesNo,Nuk është bërë HIV Test,4
+HIVTestYesNo,E panjohur,5
+RezultatiCOVIDPCR,Pozitiv,30
+RezultatiCOVIDPCR,Negativ,31
+RezultatiCOVIDRtgCT,Sugjestiv,33
+RezultatiCOVIDRtgCT,Jo sugjestiv,34
+RezultatiSerologjik,Pozitiv,39
+RezultatiSerologjik,Negativ,40
+COVID19,COVID-19 PCR,1
+COVID19,Rtg-CT COVID-19,2
+COVID19,Serologjik,3
